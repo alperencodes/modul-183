@@ -1,7 +1,7 @@
 # modul-183 - [Grade: 5.5](https://en.wikipedia.org/wiki/Academic_grading_in_Switzerland)
 💡Note: This app was a school project (modul-183) from more than a year ago. This is only a reupload from the GitHub Classroom repo so that it also is publicly accessible.
 
-This repository demonstrates a basic web-app solely for authentification purposes.
+This repository demonstrates a basic web-app solely for learning how to implement security measures to prevent cyber attacks.
 To get started, you'll need to install (or check if you already have) some dependencies.
 
 ## Dependencies
@@ -30,6 +30,5 @@ const DB_NAME = 'nameOfDatabase'; // specifies the name of the database being ac
 For more help, visit [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 ## Thank you for visiting !
-Contributor: Alperen "[hnypot](https://github.com/hnypot)" Yilmaz
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/dygNXH4X)
