@@ -1,4 +1,4 @@
-# modul-183 - [Grade: 5.5](https://en.wikipedia.org/wiki/Academic_grading_in_Switzerland)
+# SecAuth - [Grade: 5.5](https://en.wikipedia.org/wiki/Academic_grading_in_Switzerland)
 💡Note: This app was a school project (modul-183) from more than a year ago. This is only a reupload from the GitHub Classroom repo so that it also is publicly accessible.
 
 This repository demonstrates a basic web-app solely for learning how to implement security measures to prevent cyber attacks.
